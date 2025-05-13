@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367451013890",
+    "project_id": "eye-ai-3bb25",
+    "storage_bucket": "eye-ai-3bb25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367451013890:android:02c6426fd71ecafb92781b",
+        "android_client_info": {
+          "package_name": "com.example.opt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1GXTQ8jTDWu8iVmkV-27opnKPMEvGKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+/home/joeli/Documents/opt_app-main/android/app/.cxx/Debug/z1y73ai2/x86/CMakeFiles/rebuild_cache.dir
+/home/joeli/Documents/opt_app-main/android/app/.cxx/Debug/z1y73ai2/x86/CMakeFiles/edit_cache.dir
